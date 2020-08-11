@@ -27,15 +27,15 @@ vagrant стэнд с проброшенными на локалхост пор�
 
 1. GO
 
- ![Image 1](hhttps://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/go.png) 
+![Image 1](https://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/go.png) 
 
 2. React
 
-![Image 2](hhttps://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/react.png) 
+![Image 2](https://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/react.png) 
 
 3. Django
 
-![Image 3](hhttps://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/django.png) 
+![Image 3](https://raw.githubusercontent.com/staybox/otus_dz28/master/screenshots/django.png) 
 
 ## Как запустить:
  - git clone git@github.com:staybox/otus_dz28.git && cd otus_dz28 && vagrant up
